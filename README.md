@@ -12,3 +12,4 @@
 6. Merge branch `FromTest2` กลับมาที่ `main`
 7. แก้ไข `README.md` นี้ เพื่ออธิบายขั้นตอนและแนบภาพ
 <img width="939" height="649" alt="image" src="https://github.com/user-attachments/assets/bf015857-e4fa-401d-bf03-520ad40597cd" />
+![Uploading image.png…]()
